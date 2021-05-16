@@ -1355,18 +1355,6 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 8950 6575 50  0001 
 	1    8850 6950
 	1    0    0    -1  
 $EndComp
-$Comp
-L LED:WS2812B L11
-U 1 1 5DF0B8C4
-P 9450 6950
-F 0 "L11" H 9794 6996 50  0000 L CNN
-F 1 "WS2812B" H 9794 6905 50  0000 L CNN
-F 2 "avlo-parts:WS2812B" H 9500 6650 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 9550 6575 50  0001 L TNN
-	1    9450 6950
-	1    0    0    -1  
-$EndComp
-NoConn ~ 9750 6950
 Wire Wire Line
 	3250 6650 3450 6650
 Wire Wire Line
@@ -1397,9 +1385,6 @@ Wire Wire Line
 	8250 6650 8850 6650
 Connection ~ 8250 6650
 Wire Wire Line
-	8850 6650 9450 6650
-Connection ~ 8850 6650
-Wire Wire Line
 	3250 7250 3450 7250
 Wire Wire Line
 	4050 7250 3450 7250
@@ -1428,9 +1413,6 @@ Connection ~ 7650 7250
 Wire Wire Line
 	8250 7250 8850 7250
 Connection ~ 8250 7250
-Wire Wire Line
-	8850 7250 9450 7250
-Connection ~ 8850 7250
 $Comp
 L Diode:1N4148W D46
 U 1 1 609EE64F
@@ -1533,13 +1515,13 @@ Connection ~ 5900 6150
 Text GLabel 3200 6150 0    50   Input ~ 0
 row7
 Wire Wire Line
-	3300 4600 3300 5850
+	3300 4600 3300 5250
 Wire Wire Line
-	4300 4600 4300 5850
+	4300 4600 4300 5250
 Wire Wire Line
-	5300 4600 5300 5850
+	5300 4600 5300 5250
 Wire Wire Line
-	6300 4600 6300 5850
+	6300 4600 6300 5250
 Text GLabel 2500 2550 2    50   Input ~ 0
 row7
 $Comp
@@ -1660,4 +1642,17 @@ $EndComp
 Wire Wire Line
 	7300 4600 7300 5250
 Connection ~ 7300 4600
+NoConn ~ 9150 6950
+Connection ~ 3300 5250
+Wire Wire Line
+	3300 5250 3300 5850
+Connection ~ 4300 5250
+Wire Wire Line
+	4300 5250 4300 5850
+Connection ~ 5300 5250
+Wire Wire Line
+	5300 5250 5300 5850
+Connection ~ 6300 5250
+Wire Wire Line
+	6300 5250 6300 5850
 $EndSCHEMATC

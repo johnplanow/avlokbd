@@ -1,4 +1,4 @@
-update=Friday, May 14, 2021 at 05:13:45 PM
+update=Sunday, May 16, 2021 at 02:37:33 PM
 version=1
 last_client=kicad
 [general]
@@ -72,7 +72,7 @@ CopperTextSizeH=1.5
 CopperTextThickness=0.3
 CopperTextItalic=0
 CopperTextUpright=1
-EdgeCutLineWidth=0.05
+EdgeCutLineWidth=0.15
 CourtyardLineWidth=0.05
 OthersLineWidth=0.15
 OthersTextSizeV=1
