@@ -9,7 +9,7 @@ Inspired by the [Kyria](https://blog.splitkb.com/blog/introducing-the-kyria),
   * *Choice*: Unibody design. I like split keyboards, but they can be awkward to pick up and carry around.
   * *Choice*: Wireless. I intend to install a [nice!nano](https://nicekeyboards.com/nice-nano/) on the board eventually.
 * **Goal**: Minimize keymap customization and learning curve for everyday office work and programming.
-  * *Corollary*: For me, this means 3x6 with dedicated keys for all Mac modifiers. At least for now, I don't find a worthwhile tradeoff in fewer keys requiring additional customization (combos, layers, mod-taps).
+  * *Corollary*: This means 3x6 with dedicated keys for all Mac modifiers. I don't find a worthwhile tradeoff in fewer keys requiring additional customization (combos, layers, mod-taps).
   * *Choice*: 44 keys in a 6x3+4 layout.
 * **Goal**: Experiment with an aggressive column-stagger, especially for the pinky. This seems intuitive to me, given my pinky is significantly shorter than other fingers.
   * *Choice*: The column-stagger is lifted directly from the [Kyria](https://blog.splitkb.com/blog/introducing-the-kyria). All credit to [Thomas Baart](https://thomasbaart.nl/) for its design.
