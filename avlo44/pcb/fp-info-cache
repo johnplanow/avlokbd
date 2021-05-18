@@ -1,4 +1,4 @@
-16615334408704185
+16620198064074185
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -74221,6 +74221,13 @@ Diode-dual
 10
 2
 avlo-parts
+HOLE_M2_TH
+
+
+0
+1
+0
+avlo-parts
 MX-Alps-Choc-1U
 
 
@@ -74248,3 +74255,17 @@ WS2812B
 0
 4
 4
+avlo-parts
+artwork-bicyclist
+
+
+0
+0
+0
+avlo-parts
+artwork-tireswing
+
+
+0
+0
+0
