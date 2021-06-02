@@ -1536,17 +1536,6 @@ F 3 "" H 1250 3500 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L keyboard_parts:GND #PWR0101
-U 1 1 60A1ACE6
-P 1650 3350
-F 0 "#PWR0101" H 1650 3400 20  0001 C CNN
-F 1 "GND" V 1650 3379 30  0000 L CNN
-F 2 "" H 1650 3350 60  0000 C CNN
-F 3 "" H 1650 3350 60  0000 C CNN
-	1    1650 3350
-	0    -1   -1   0   
-$EndComp
-$Comp
 L power:VCC #PWR0102
 U 1 1 60A22C43
 P 1650 3450
@@ -1557,8 +1546,6 @@ F 3 "" H 1650 3450 50  0001 C CNN
 	1    1650 3450
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	1450 3350 1650 3350
 Wire Wire Line
 	1450 3450 1650 3450
 Wire Wire Line
@@ -1775,5 +1762,18 @@ F 2 "avlo-parts:HOLE_M2_TH" H 7650 8600 60  0001 C CNN
 F 3 "" H 7650 8600 60  0000 C CNN
 	1    7650 8600
 	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1450 3350 1650 3350
+$Comp
+L power:GND #PWR?
+U 1 1 60B41A07
+P 1650 3350
+F 0 "#PWR?" H 1650 3100 50  0001 C CNN
+F 1 "GND" V 1655 3222 50  0000 R CNN
+F 2 "" H 1650 3350 50  0001 C CNN
+F 3 "" H 1650 3350 50  0001 C CNN
+	1    1650 3350
+	0    -1   -1   0   
 $EndComp
 $EndSCHEMATC

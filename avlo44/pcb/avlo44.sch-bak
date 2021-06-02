@@ -1765,4 +1765,15 @@ F 3 "" H 7150 8600 60  0000 C CNN
 	1    7150 8600
 	1    0    0    -1  
 $EndComp
+$Comp
+L Lily58-rescue:HOLE-Lily58-cache TH11
+U 1 1 60ABB60F
+P 7650 8600
+F 0 "TH11" H 7650 8400 60  0000 C CNN
+F 1 "HOLE" H 7650 8300 60  0000 C CNN
+F 2 "avlo-parts:HOLE_M2_TH" H 7650 8600 60  0001 C CNN
+F 3 "" H 7650 8600 60  0000 C CNN
+	1    7650 8600
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
