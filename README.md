@@ -1,5 +1,8 @@
 # Avlo44 Keyboard
 
+![Avlo44 Build](images/avlo44-rev0_1-build.jpeg)
+![Avlo44 PCBs](images/avlo44-rev0_1-pcbs.jpeg)
+
 Avlo44 is a 6x3+4 column-staggered, split, unibody keyboard. 
 
 Inspired by the [Kyria](https://blog.splitkb.com/blog/introducing-the-kyria), 
