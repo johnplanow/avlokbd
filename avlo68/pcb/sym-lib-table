@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name avlo68-rescue)(type Legacy)(uri ${KIPRJMOD}/avlo68-rescue.lib)(options "")(descr ""))
+  (lib (name blackpill)(type Legacy)(uri ${KIPRJMOD}/blackpill.lib)(options "")(descr ""))
 )
